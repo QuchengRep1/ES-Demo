@@ -1,0 +1,7 @@
+qucheng:
+  es:
+    hostname: 172.16.4.151:9201,172.16.4.152:9201,172.16.4.153:9201
+  lao_user:
+    index: cmp_user
+    field: user_id,channel_cust_id,msisdn,operators_id,iccid,apn,in_date,open_date,first_call|_time
+
